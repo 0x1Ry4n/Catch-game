@@ -1,5 +1,5 @@
 <h1> Catch-game </h1>
-Simple game made in cpp
+<h2> Simple game made in cpp </h2>
 
 <ul><li><h2>✨ Features:</h2></li></ul>
 <p> ✔️ Mouse events traitment </p>
