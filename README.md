@@ -1,4 +1,4 @@
-# Catch-game
+<h1> Catch-game </h1>
 Simple game made in cpp
 
 <ul><li><h2>✨ Features:</h2></li></ul>
