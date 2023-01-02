@@ -4,7 +4,7 @@
 
 <ul><li><h2>✨ Features:</h2></li></ul>
 <p> ✔️ Mouse events traitment </p>
-<p> ✔️ Square texture with Vector2<T> </p>
-<p> ✔️ Random positions and colors in squares </p>
+<p> ✔️ Square rendering with Vector2<T> </p>
+<p> ✔️ Square generation with random positions and colors </p>
 <p> ✔️ Dificulty levels </p>
 <p> ✔️ Basic scoring system </p>
